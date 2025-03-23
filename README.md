@@ -4,5 +4,5 @@
 ```
 - not null, undefined
 - trim. has no begging or ending spaces.
-- protect the data against the injections (use RegExp.test(value) in JS, htmlspecialchars() in PHP )
+- protect the data against the injections (use RegExp.test(value) in JS, htmlspecialchars() in PHP +8.1)
 ```
